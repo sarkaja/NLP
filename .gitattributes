@@ -2,4 +2,4 @@ users.csv filter=lfs diff=lfs merge=lfs -text
 businesses.csv filter=lfs diff=lfs merge=lfs -text
 reviews.csv filter=lfs diff=lfs merge=lfs -text
 dfin_clean.csv filter=lfs diff=lfs merge=lfs -text
-dfin.csv filter=lfs diff=lfs merge=lfs -text
+dfinx.csv filter=lfs diff=lfs merge=lfs -text
